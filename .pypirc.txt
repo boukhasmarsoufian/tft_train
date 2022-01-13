@@ -1,0 +1,12 @@
+[distutils] 
+index-servers=pypi
+
+[pypi]
+repository: https://upload.pypi.org/legacy/ 
+username: soufian
+password: @password_013605
+
+[testpypi]
+repository: https://test.pypi.org/legacy/
+username: soufian
+password: @password_013605
